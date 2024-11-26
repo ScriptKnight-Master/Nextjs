@@ -1,2 +1,3 @@
 # Nextjs
-Nextjs test repository
+
+Nextjs test repository for Github learning
