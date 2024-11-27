@@ -1,5 +1,3 @@
 # Nextjs
 
-Nextjs test repository for Github signing test
-
-
+Nextjs test repository for Github GPG signing test
